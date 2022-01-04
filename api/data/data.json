@@ -1,0 +1,58 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "God Of War",
+      "description": "Duis fugiat qui enim exercitation nostrud elit.",
+      "categories": [1]
+    },
+    {
+      "id": 2,
+      "title": "Tom Raider",
+      "description": "Magna aliquip deserunt fugiat proident duis veniam eiusmod veniam ea commodo.",
+      "categories": [1, 2]
+    },
+    {
+      "id": 3,
+      "title": "Minecraft",
+      "description": "Labore ullamco fugiat in dolore esse quis do fugiat sunt magna elit.",
+      "categories": [3, 4]
+    },
+    {
+      "id": 4,
+      "title": "Deep Rock Galactic",
+      "description": "Adipisicing cillum sunt minim adipisicing qui in magna quis laboris est reprehenderit aliqua adipisicing ullamco.",
+      "categories": [1]
+    },
+    {
+      "id": 5,
+      "title": "Tekken 7",
+      "description": "Labore deserunt velit incididunt Lorem aliqua fugiat qui amet adipisicing.",
+      "categories": [1]
+    },
+    {
+      "id": 6,
+      "title": "Stardew Valley",
+      "description": "Ad anim dolore adipisicing anim cillum.",
+      "categories": [3]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "type": "Action"
+    },
+    {
+      "id": 2,
+      "type": "Puzzle"
+    },
+    {
+      "id": 3,
+      "type": "Casual"
+    },
+    {
+      "id": 4,
+      "type": "Sandbox"
+    }
+  ]
+}

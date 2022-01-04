@@ -1,0 +1,29 @@
+const { gql } = require("apollo-server");
+
+const gameSchema = gql`
+
+enum CategoryTypes {
+    Action
+    Puzzle
+    Casual
+    Sandbox
+}
+
+type Category {
+    id: Int!
+    type: CategoryTypes!
+}
+
+type Game {
+    id: Int!
+    title: String!
+    description: String!
+    categories: [Category]
+}
+
+type Query {
+    games: [Game]!
+}
+`
+
+module.exports = gameSchema
