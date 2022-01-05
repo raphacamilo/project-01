@@ -10,13 +10,13 @@
       "id": 2,
       "title": "Tom Raider",
       "description": "Magna aliquip deserunt fugiat proident duis veniam eiusmod veniam ea commodo.",
-      "categories": [1, 2]
+      "categories": [1,2]
     },
     {
       "id": 3,
       "title": "Minecraft",
       "description": "Labore ullamco fugiat in dolore esse quis do fugiat sunt magna elit.",
-      "categories": [3, 4]
+      "categories": [3,4]
     },
     {
       "id": 4,
